@@ -9,7 +9,7 @@ import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
 public class CatalogServiceApplication {
 
     public static void main(String[] args) {
-        System.out.println("Hello Catalog Service !!");
+        System.out.println("Hello Catalog Service 1!!");
         SpringApplication.run(CatalogServiceApplication.class, args);
     }
 }
